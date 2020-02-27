@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Action.vue renders correctly 1`] = `
+<div class="flex justify-between items-center">
+  <p class="pr-2 text-sm">Moved post 1 from index 0 to index 1</p> <button type="button" class="btn">Time travel</button>
+</div>
+`;
